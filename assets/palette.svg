@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="460" viewBox="0 0 920 460" role="img" aria-labelledby="title desc">
+  <title id="title">Neovim default dark and light palettes</title>
+  <desc id="desc">Color swatches for the Neovim default dark and light palettes.</desc>
+  <rect width="920" height="460" fill="#e0e2ea"/>
+  <text x="32" y="48" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="24" font-weight="700" fill="#14161b">Neovim default palette</text>
+  <text x="32" y="82" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" fill="#4f5258">Exact colors from neovim/neovim#26540</text>
+
+  <text x="32" y="130" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#14161b">Dark</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <g transform="translate(32 150)">
+      <rect width="150" height="74" rx="6" fill="#004c73"/><text x="12" y="28" fill="#e0e2ea">blue</text><text x="12" y="52" fill="#e0e2ea">#004c73</text>
+    </g>
+    <g transform="translate(198 150)">
+      <rect width="150" height="74" rx="6" fill="#007373"/><text x="12" y="28" fill="#e0e2ea">cyan</text><text x="12" y="52" fill="#e0e2ea">#007373</text>
+    </g>
+    <g transform="translate(364 150)">
+      <rect width="150" height="74" rx="6" fill="#005523"/><text x="12" y="28" fill="#e0e2ea">green</text><text x="12" y="52" fill="#e0e2ea">#005523</text>
+    </g>
+    <g transform="translate(530 150)">
+      <rect width="150" height="74" rx="6" fill="#07080d"/><text x="12" y="28" fill="#e0e2ea">grey1</text><text x="12" y="52" fill="#e0e2ea">#07080d</text>
+    </g>
+    <g transform="translate(696 150)">
+      <rect width="150" height="74" rx="6" fill="#14161b"/><text x="12" y="28" fill="#e0e2ea">grey2</text><text x="12" y="52" fill="#e0e2ea">#14161b</text>
+    </g>
+    <g transform="translate(32 240)">
+      <rect width="150" height="74" rx="6" fill="#2c2e33"/><text x="12" y="28" fill="#e0e2ea">grey3</text><text x="12" y="52" fill="#e0e2ea">#2c2e33</text>
+    </g>
+    <g transform="translate(198 240)">
+      <rect width="150" height="74" rx="6" fill="#4f5258"/><text x="12" y="28" fill="#e0e2ea">grey4</text><text x="12" y="52" fill="#e0e2ea">#4f5258</text>
+    </g>
+    <g transform="translate(364 240)">
+      <rect width="150" height="74" rx="6" fill="#470045"/><text x="12" y="28" fill="#e0e2ea">magenta</text><text x="12" y="52" fill="#e0e2ea">#470045</text>
+    </g>
+    <g transform="translate(530 240)">
+      <rect width="150" height="74" rx="6" fill="#590008"/><text x="12" y="28" fill="#e0e2ea">red</text><text x="12" y="52" fill="#e0e2ea">#590008</text>
+    </g>
+    <g transform="translate(696 240)">
+      <rect width="150" height="74" rx="6" fill="#6b5300"/><text x="12" y="28" fill="#e0e2ea">yellow</text><text x="12" y="52" fill="#e0e2ea">#6b5300</text>
+    </g>
+  </g>
+
+  <text x="32" y="352" font-family="ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="18" font-weight="700" fill="#14161b">Light</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
+    <g transform="translate(32 372)">
+      <rect width="72" height="32" rx="4" fill="#a6dbff"/><text x="84" y="21" fill="#14161b">blue #a6dbff</text>
+    </g>
+    <g transform="translate(198 372)">
+      <rect width="72" height="32" rx="4" fill="#8cf8f7"/><text x="84" y="21" fill="#14161b">cyan #8cf8f7</text>
+    </g>
+    <g transform="translate(364 372)">
+      <rect width="72" height="32" rx="4" fill="#b3f6c0"/><text x="84" y="21" fill="#14161b">green #b3f6c0</text>
+    </g>
+    <g transform="translate(530 372)">
+      <rect width="72" height="32" rx="4" fill="#eef1f8" stroke="#c4c6cd"/><text x="84" y="21" fill="#14161b">grey1 #eef1f8</text>
+    </g>
+    <g transform="translate(696 372)">
+      <rect width="72" height="32" rx="4" fill="#e0e2ea" stroke="#c4c6cd"/><text x="84" y="21" fill="#14161b">grey2 #e0e2ea</text>
+    </g>
+    <g transform="translate(32 410)">
+      <rect width="72" height="32" rx="4" fill="#c4c6cd"/><text x="84" y="21" fill="#14161b">grey3 #c4c6cd</text>
+    </g>
+    <g transform="translate(198 410)">
+      <rect width="72" height="32" rx="4" fill="#9b9ea4"/><text x="84" y="21" fill="#14161b">grey4 #9b9ea4</text>
+    </g>
+    <g transform="translate(364 410)">
+      <rect width="72" height="32" rx="4" fill="#ffcaff"/><text x="84" y="21" fill="#14161b">magenta #ffcaff</text>
+    </g>
+    <g transform="translate(530 410)">
+      <rect width="72" height="32" rx="4" fill="#ffc0b9"/><text x="84" y="21" fill="#14161b">red #ffc0b9</text>
+    </g>
+    <g transform="translate(696 410)">
+      <rect width="72" height="32" rx="4" fill="#fce094"/><text x="84" y="21" fill="#14161b">yellow #fce094</text>
+    </g>
+  </g>
+</svg>
